@@ -1,5 +1,5 @@
 # Grup123
-# Çoklu Ortam Tasarımı ve Üretimi
+# Çoklu Ortam Tasarımı ve Üretimi dersi apsamında yapılan final projesidir.
 # Sinem Ercan:
 05.06.2018 tarihinde kendi alan adreslerimi html sayfalarına ekleyerek grup projesini güncelledim. 
 # Çağla Vural:
